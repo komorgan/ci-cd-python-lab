@@ -1,5 +1,6 @@
 import argparse
-from . import add, sub, mul, div
+
+from . import add, div, mul, sub
 
 
 def main() -> None:

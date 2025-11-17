@@ -1,5 +1,5 @@
 """Tiny calculator package for CI/CD lab."""
 
-from .ops import add, sub, mul, div  # re-export
+from .ops import add, div, mul, sub
 
-__all__ = ["add", "sub", "mul", "div"]
+__all__ = ["add", "div", "mul", "sub"]
