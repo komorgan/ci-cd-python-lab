@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: calc-ci-lab
+Version: 0.1.0
+Summary: Tiny calc package for CI/CD lab
+Author: Your Name
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# ci-cd-python-lab
+
+![CI](https://img.shields.io/github/actions/workflow/status/komorgan/ci-cd-python-lab/ci.yml?branch=main)
+
+A minimal Python package to demonstrate CI/CD with GitHub Actions.
+
+## Local setup
+
+```bash
+python3 -m venv .venv        # optional but recommended
+source .venv/bin/activate    # Windows: .venv\Scripts\activate
+pip install -r requirements-dev.txt
+pip install -e .
