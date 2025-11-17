@@ -2,7 +2,7 @@
 
 ![CI](https://img.shields.io/github/actions/workflow/status/komorgan/ci-cd-python-lab/ci.yml?branch=main)
 
-A minimal Python package to demonstrate CI/CD with GitHub Actions.
+A minimal Python package to demonstrate CI/CD with GitHub Actions..
 
 ## Local setup
 
